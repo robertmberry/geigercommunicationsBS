@@ -1,4 +1,7 @@
+// strict
+
 let acc = document.getElementsByClassName('acc');
+
 /* creates an array of objects, acc is an array of the "more" buttons */
 /* acc is the class to make this work */
 
@@ -9,10 +12,10 @@ let acc = document.getElementsByClassName('acc');
 // 		// console.log('click')
 // 		let sib = this.nextElementSibling.style.display;
 // 		if (sib == 'none'){
-// 			this.nextElementSibling.style.display = 'block';
+// 			this.nextElementSibling.style.display === 'block';
 // 		}
 // 		else {
-// 			this.nextElementSibling.style.display = 'none';
+// 			this.nextElementSibling.style.display === 'none';
 // 		}
 // 	};
 // };

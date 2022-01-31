@@ -1,6 +1,7 @@
-*{
+* {
 box-sizing: border-box;
 margin: 0;
+padding: 0;
 font-family: 'Roboto', sans-serif;
 }
 
@@ -80,6 +81,7 @@ button {
     padding: 12px 0px;
     margin: 10px 0;
 	border: none;
+	font-weight: bold;
 }
 
 .button4 {
@@ -89,13 +91,10 @@ button {
     padding: 12px 0px;
     margin: 10px 0;
 	border: none;
+	font-weight: bold;
 }
 
 .btn:hover {
 	Background: #000000;
 	box-shadow: 2px 2px 2px 0px #888;
 }
-
-/* li {
-	style hide
-} */
