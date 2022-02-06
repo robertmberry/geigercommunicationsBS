@@ -19,6 +19,9 @@ font-family: 'Roboto', sans-serif;
 h1, h4 {
 	font-family: 'Cabin', sans-serif;
 }
+.justify {
+    text-align: justify;
+}
 a:link { 
     text-decoration: none !important;
     color: black;
